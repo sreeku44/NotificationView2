@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "440604F99D2E63296E6BD4ADA753BCF28A2C6991",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "440604F99D2E63296E6BD4ADA753BCF28A2C6991" : 9223372036854775807,
+    "253672CD8104F82DBA199AFF8139166E39E7044C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A0ABDDA4-2E0F-4438-8408-002233DD265A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "440604F99D2E63296E6BD4ADA753BCF28A2C6991" : "NotificationView\/",
+    "253672CD8104F82DBA199AFF8139166E39E7044C" : "NotificationView\/NotificationView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NotificationView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NotificationView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sreeku44\/NotificationView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "253672CD8104F82DBA199AFF8139166E39E7044C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sreeku44\/NotificationView2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "440604F99D2E63296E6BD4ADA753BCF28A2C6991"
+    }
+  ]
+}

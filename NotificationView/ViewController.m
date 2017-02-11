@@ -19,7 +19,7 @@
     
     self.notificationView  = [[UIView alloc]init];
     
-    self.notificationView.frame = CGRectMake(0, 0, 414.2, 735.8);
+    self.notificationView.frame = CGRectMake(0,-738.8,414.2,738.8);
     
     self.notificationView.backgroundColor = [UIColor colorWithRed:190.0/255.0 green:255.0/255.0 blue:255.0/255.0 alpha:1.0];
     
